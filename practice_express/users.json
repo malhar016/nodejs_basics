@@ -1,0 +1,51 @@
+{
+    "data": [{ "id": 1,
+        "name": "Malhar Bhuptani",
+        "age": 31,
+        "company": "Barclays",
+        "hobby": "Mouth Organ, Coding"
+    }, { 
+        "id": 1,
+        "name": "Nirali Bhuptani",
+        "age": 30,
+        "company": "Barclays",
+        "hobby": "Cooking, Dancing"
+    }, { 
+        "id": 1,
+        "name": "Vihana Bhuptani",
+        "age": 1,
+        "company": "Childhood",
+        "hobby": "Running around, throwing, giggeling"
+    }, { 
+        "id": 1,
+        "name": "Nihil Bhuptani",
+        "age": 35,
+        "company": "FIS Globlas",
+        "hobby": "Electrinic Gadgets, Finding offers"
+    }, { 
+        "id": 1,
+        "name": "Riddhi Bhuptani",
+        "age": 31,
+        "company": "Orbis School",
+        "hobby": "Cooking, Talking"
+    }, { 
+        "id": 1,
+        "name": "Vihana Bhuptani",
+        "age": 5,
+        "company": "Masti.com",
+        "hobby": "Painting, Chating, Singing, Dacing"
+    }, { 
+        "id": 1,
+        "name": "Nitin Bhuptani",
+        "age": 62,
+        "company": "LIC",
+        "hobby": "Playing with kids, Watcing news"
+    }, { 
+        "id": 1,
+        "name": "Hin Bhuptani",
+        "age": 60,
+        "company": "Kotak school",
+        "hobby": "Ramayan Path, Seva"
+    }
+    ]
+}
